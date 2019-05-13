@@ -74,7 +74,7 @@ int main(void)
           scanf("%s", port_name);
           fflush(stdin);
           printf("Enter port interface:\n");
-          scanf("%d", port_interface);
+          scanf("%d", &port_interface);
           fflush(stdin);
           printf("Enter additional argument:\n");
           scanf("%s",open_args);
