@@ -1,0 +1,115 @@
+# depslib dependency file v1.0
+1557154500 source:c:\users\projekat\desktop\ufr_advance_c_console_example\src\conio_gnu.c
+	<termios.h>
+	<stdio.h>
+	<unistd.h>
+	<sys/types.h>
+	<sys/time.h>
+	<sys/ioctl.h>
+
+1557154499 .h>
+
+1557154500 source:c:\users\projekat\desktop\ufr_advance_c_console_example\src\utils.c
+	<stdio.h>
+	<stdlib.h>
+	<inttypes.h>
+	"ini.h"
+	"utils.h"
+
+1557504824 
+
+1557588222 c:\users\projekat\desktop\ufr_advance_c_console_example\src\ini.h
+
+1557154500 c:\users\projekat\desktop\ufr_advance_c_console_example\src\utils.h
+
+1557586342 source:c:\users\projekat\desktop\ufr_advance_c_console_example\src\ufr.c
+	<stdio.h>
+	<stdlib.h>
+	<inttypes.h>
+	<stdbool.h>
+	"../lib/include/uFCoder.h"
+	"ini.h"
+	"uFR.h"
+
+1557586340 clude/uFCoder.h"
+
+1557504826 c:\users\projekat\desktop\ufr_advance_c_console_example\lib\include\ufcoder.h
+	<stdint.h>
+	<stddef.h>
+
+1557154500 c:\users\projekat\desktop\ufr_advance_c_console_example\src\ufr.h
+	"ini.h"
+
+1557750515 source:c:\users\projekat\desktop\ufr_advance_c_console_example\src\main.c
+	<stdio.h>
+	<stdlib.h>
+	<inttypes.h>
+	<stdbool.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	<windows.h>
+	<unistd.h>
+	<termios.h>
+	"conio_gnu.h"
+	"../lib/include/uFCoder.h"
+	"ini.h"
+	"uFR.h"
+	"utils.h"
+
+1557154500 c:\users\projekat\desktop\ufr_advance_c_console_example\src\conio_gnu.h
+
+1557150900 source:/home/bojan/Desktop/uFR_advance_c_console_example/src/conio_gnu.c
+	<termios.h>
+	<stdio.h>
+	<unistd.h>
+	<sys/types.h>
+	<sys/time.h>
+	<sys/ioctl.h>
+
+1557744662 source:/home/bojan/Desktop/uFR_advance_c_console_example/src/main.c
+	<stdio.h>
+	<stdlib.h>
+	<inttypes.h>
+	<stdbool.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	<windows.h>
+	<unistd.h>
+	<termios.h>
+	"conio_gnu.h"
+	"../lib/include/uFCoder.h"
+	"ini.h"
+	"uFR.h"
+	"utils.h"
+
+1557150900 /home/bojan/Desktop/uFR_advance_c_console_example/src/conio_gnu.h
+
+1557501226 /home/bojan/Desktop/uFR_advance_c_console_example/lib/include/uFCoder.h
+	<stdint.h>
+	<stddef.h>
+
+1557584622 /home/bojan/Desktop/uFR_advance_c_console_example/src/ini.h
+
+1557150900 /home/bojan/Desktop/uFR_advance_c_console_example/src/uFR.h
+	"ini.h"
+
+1557150900 /home/bojan/Desktop/uFR_advance_c_console_example/src/utils.h
+
+1557582742 source:/home/bojan/Desktop/uFR_advance_c_console_example/src/uFR.c
+	<stdio.h>
+	<stdlib.h>
+	<inttypes.h>
+	<stdbool.h>
+	"../lib/include/uFCoder.h"
+	"ini.h"
+	"uFR.h"
+
+1557150900 source:/home/bojan/Desktop/uFR_advance_c_console_example/src/utils.c
+	<stdio.h>
+	<stdlib.h>
+	<inttypes.h>
+	"ini.h"
+	"utils.h"
+
